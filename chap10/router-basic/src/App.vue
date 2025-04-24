@@ -18,7 +18,7 @@ provide("memberList", reactive(memberList));
   </main>
 </template>
 
-<style scoped>
+<style>
 main {
   border: blue 1px solid;
   padding: 10px;
